@@ -1,0 +1,33 @@
+.converter{
+    background-color: blueviolet;
+    width:90%;
+    max-width: 300px;
+    margin: 20px auto;
+    display: block;
+    
+    border:1px solid #ddd;
+    border-radius:4px;
+    font-size:16px;
+    color:#444;
+    background-color: aqua;
+    
+
+}
+
+.heading{
+    background-color: blueviolet;
+    color: yellow;
+}
+.footer{
+    color: rgb(244, 253, 252);
+    float: left;
+    margin: 20px auto;
+    padding-right: 0%;
+    text-align: center;
+    display: flex;
+    justify-content: right;
+
+
+}
+
+    
